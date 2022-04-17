@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "express": "^4.17.3",
+    "inquirer": "^6.3.1",
+    "process": "^0.11.10"
   }
 }
