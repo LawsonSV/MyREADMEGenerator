@@ -1,5 +1,5 @@
-![License Badge](https://img.shields.io/badge/license-Apache-green)
-  # README Generator  
+![License Badge](https://img.shields.io/badge/license-GNU-green)
+  # test title  
  
  ## Table of Contents:
 
@@ -13,27 +13,27 @@
  
    ## Description: 
    
-   This project was designed to allow someone to generate a high-quality README
+   test description
  
    ## Installation:
    
-   To install this project, simply clone the repo from my github
+   test installation
  
    ## Usage: 
    
-   This project is to be used by anyone in need of a high-quality README
+   test usage
  
    ## Contributing: 
    
-   I contributed to 100% of this project
+   test contributing
  
    ## Tests: 
    
-   To test this app, simply cd into the develop folder and run node index.js
+   test instructions
  
    ## License:
  
-   This project is covered under the Apache license.
+   This project is covered under the GNU license.
  
    ## Contact:
 
