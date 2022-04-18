@@ -13,23 +13,23 @@
  
    ## Description: 
    
-   This project was for an app designed to generate a README 
+   This project was designed to allow someone to generate a high-quality README
  
    ## Installation:
    
-   To install the app, simply clone the repo to your computer from my github page
+   To install this project, simply clone the repo from my github
  
    ## Usage: 
    
-   This app is to be used by anyone in need of a high-quality, professional README
+   This project is to be used by anyone in need of a high-quality README
  
    ## Contributing: 
    
-   I contributed to 100% of the project
+   I contributed to 100% of this project
  
    ## Tests: 
    
-   To test the app, simply run node index in your terminal after you've cloned down the repo and cd'd into it
+   To test this app, simply cd into the develop folder and run node index.js
  
    ## License:
  
