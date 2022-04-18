@@ -40,7 +40,7 @@ const generateReadMe = ({title, description, installation, usage, contributing, 
 
    For further questions, visit my GitHub or contact me via email.  
 
-   Email: [email](mailto:${email}),  
+   Email: [email](mailto:${email})  
    GitHub: [GitHub](https://github.com/${github})  
    `
  }
