@@ -25,7 +25,7 @@
  
    ## Contributing: 
    
-   test contributing
+   test guidelines
  
    ## Tests: 
    
