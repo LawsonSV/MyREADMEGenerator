@@ -1,4 +1,4 @@
-![License Badge](https://img.shields.io/badge/license-GNU-green)
+![License Badge](https://img.shields.io/badge/license-Apache-green)
   # test title  
  
  ## Table of Contents:
@@ -7,7 +7,7 @@
  [Installation](#Installation)  
  [Usage](#Usage)  
  [Contributing](#Contributing)  
- [Test](#Test)  
+ [Tests](#Tests)  
  [License](#License)  
  [Contact](#Contact)  
  
@@ -33,7 +33,7 @@
  
    ## License:
  
-   This project is covered under the GNU license.
+   This project is covered under the Apache license.
  
    ## Contact:
 

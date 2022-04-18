@@ -8,7 +8,7 @@ const generateReadMe = ({title, description, installation, usage, contributing, 
  [Installation](#Installation)  
  [Usage](#Usage)  
  [Contributing](#Contributing)  
- [Test](#Test)  
+ [Tests](#Tests)  
  [License](#License)  
  [Contact](#Contact)  
  
